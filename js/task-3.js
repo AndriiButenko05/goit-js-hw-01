@@ -1,4 +1,5 @@
- console.log("Task 3");
+'use strict';
+console.log("Task 3");
 function getElementWidth(content, padding, border) {
     content = parseFloat(content);
     padding = parseFloat(padding);
